@@ -22,7 +22,7 @@ ul{list-style-type:none}
 .avatar-box img { max-width: 94%; }
 .main-menu a:hover:after{width:100%}
 .about{background-color:#fff;overflow:hidden}
-.about-social,.info-box__name .hello{background-color:#26cc63}
+.about-social,.info-box__name .hello{background-color:#efbf23}
 .about-text{display:flex;padding:20px 15px;align-items:center}
 .avatar-box{width:35%;animation:rightToLeft .5s ease-out}
 .info-box{width:65%;animation:leftToRight .5s ease-out}
@@ -59,7 +59,7 @@ ul{list-style-type:none}
 .pulse:before{content:"";display:block;position:absolute;border:1px solid #58ea00;left:-20px;right:-20px;bottom:-20px;top:-20px;border-radius:50%;animation:animate 1s linear infinite}
 @keyframes animate{0%{transform:scale(.5);opacity:0}50%{opacity:1}100%{transform:scale(1.2);opacity:0}}
 .progress-bar {
-	background-color: #26cc63;
+	background-color: #efbf23;
 }
 @media screen and (max-width:1024px){
 	.education-inner{margin-left:0;margin-right:0}
